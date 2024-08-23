@@ -1,1 +1,17 @@
-node_modules/
+# dev/build outputs
+bin
+dist
+
+# Node dependencies
+node_modules
+
+# Logs
+
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+
